@@ -1,1 +1,1 @@
-
+In this folder your image is automatically saved when you enroll your face, for this run smart_attendance.py file
